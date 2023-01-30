@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/kkyoni/](https://github.com/kkyoni/)
+- 👨‍💻 All of my projects are available at [https://github.com/kkyoni?tab=repositories](https://github.com/kkyoni?tab=repositories)
 
 - ⚡ Fun fact **I am funny😅**
 
